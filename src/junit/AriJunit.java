@@ -3,8 +3,8 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-class aritest {
-			junit a=new junit();
+class AriJunit {
+			AriTest a=new AriTest();
 		
 	@Test
 		void testadd() 
